@@ -1,0 +1,27 @@
+source,log_message
+Billing System,User User123 logged in
+Billing System,User User456 logged out
+Modern CRM,Account with ID 456 created by AdminUser
+LegacyCRM,Password reset requested by user User789
+LegacyCRM,Backup started at 2024-06-01 10:00:00
+LegacyCRM,Backup ended at 2024-06-01 10:30:00
+Modern CRM,Backup completed successfully
+Billing System,Scheduled task completed at 2024-06-01 12:00:00
+Modern CRM,System updated to version 2.1.0
+LegacyCRM,Deprecated API v1 detected
+Billing System,Legacy module payment_gateway is no longer supported
+LegacyCRM,File report.pdf uploaded successfully by user
+Billing System,File invoice.xlsx deleted successfully
+Modern CRM,Document summary.docx downloaded by user User123
+LegacyCRM,Disk cleanup completed successfully
+Modern CRM,Cache memory cleared successfully
+Billing System,Temporary files removed from system
+Modern CRM,System reboot initiated by user AdminUser
+LegacyCRM,Server restarted successfully
+LegacyCRM,Email service failed to send notification to user User123
+Billing System,Payment workflow execution failed due to timeout
+Modern CRM,Data synchronization job failed during execution
+LegacyCRM,Invalid user credentials provided
+Billing System,Unauthorized access attempt detected
+LegacyCRM,Unrecognized log message format
+Modern CRM,Unknown status received from external service
